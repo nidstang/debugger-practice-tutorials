@@ -11,4 +11,4 @@ Just run: ```npm i```
 3. Open browser dev tools
 4. The code must be
 
-![code](https://imgur.com/a/ZN3BrYS "Devtools practice code")
+![code](https://i.imgur.com/KzzOA4J.png "Devtools practice code")
